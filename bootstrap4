@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Unstop</title>
+    <!-- link to the Bootstrap 4 stylesheet -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  </head>
+  <body>
+    <header class="navbar navbar-dark bg-dark">
+      <nav class="navbar-brand">
+        <!-- navigation links go here -->
+      </nav>
+    </header>
+    <main class="container mt-5">
+      <!-- main content goes here -->
+    </main>
+    <footer class="bg-dark py-3">
+      <!-- footer information goes here -->
+    </footer>
+  </body>
+</html>
